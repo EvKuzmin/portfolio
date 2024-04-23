@@ -1,0 +1,165 @@
+Institute of Chemical Kinetics and Combustion, Institutskaya 3, Novosibirsk 630090, Russia   --------  1
+Novosibirsk State University, Pirogova 2, Novosibirsk 630090, Russia   --------  6
+Department of Physics Novosibirsk State University  630090 Novosibirsk Russia   --------  2
+Sobolev Institute of Geology and Mineralogy, SB RAS  630090 Novosibirsk Russia   --------  2
+Bayerisches Geoinstitut Universitaet Bayreuth  95440 Bayreuth Germany   --------  3
+Photon Sciences Deutsches Elektronen‐Synchrotron (DESY)  22603 Hamburg Germany   --------  3
+Vereshchagin Institute for High Pressure Physics, RAS  142190 Troitsk, Moscow Russia   --------  1
+Department of Higher Mathematics, Dubna State University, Universitetskaya str. 19, Dubna 141983, Moscow region, Russia   --------  2
+Department of Physics, Novosibirsk State University, Pirogova str. 2, Novosibirsk 630090, Russia   --------  2
+Nikolaev Institute of Inorganic Chemistry   --------  6
+Siberian Branch of the Russian Academy of Sciences   --------  9
+630090 Novosibirsk   --------  22
+Russian Federation   --------  11
+Novosibirsk State University   --------  15
+Medical Research Council Oxford Institute for Radiation Oncology, Department of Oncology, University of Oxford, Oxford OX3 7DQ, UK   --------  3
+Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Lavrentieva 10, 630090 Novosibirsk, Russian Federation   --------  1
+Novosibirsk State University, 630090 Novosibirsk, Russian Federation   --------  1
+V. V. Voevodsky Institute of Chemical Kinetics and Combustion   --------  3
+Novosibirsk 630090   --------  17
+Russia   --------  27
+N. N. Vorozhtsov Institute of Organic Chemistry   --------  1
+N.D. Zelinsky Institute of Organic Chemistry   --------  1
+Moscow 119991   --------  1
+International Tomography Center   --------  4
+Johannes Gutenberg-University Mainz   --------  1
+Mainz   --------  1
+Germany   --------  4
+Max Planck Institute for Polymer Research   --------  1
+55128 Mainz   --------  1
+International Tomography Center SB RAS   --------  4
+N. N. Vorozhtsov Novosibirsk Institute of Organic Chemistry SB RAS   --------  1
+Boreskov Institute of Catalysis SB RAS   --------  2
+Kutateladze Institute of Thermophysics SB RAS   --------  1
+Landau Phystech-School of Physics & Research   --------  1
+Moscow Institute of Physics and Technology   --------  1
+Dolgoprudny 141701   --------  1
+Université Savoie Mont Blanc, CNRS, EDYTEM, Chambéry, France   --------  4
+Institute of Archeology and Ethnography of the Siberian Branch of the Russian Academy of Sciences, Novosibirsk, Russia   --------  3
+Novosibirsk State University, Novosibirsk, Russia   --------  5
+Université de Bordeaux, CNRS, Ministère de la Culture et de la Communication, PACEA, Pessac, France   --------  3
+Nikolaev Institute of Inorganic Chemistry SB RAS   --------  11
+Novosibirsk   --------  7
+Institute of Inorganic Chemistry   --------  2
+RWTH Aachen University   --------  2
+52074 Aachen   --------  2
+Nikolaev Institute of Inorganic Chemistry (NIIC), Siberian Branch of the Russian Academy of Sciences (SB RAS), Lavrentieva Street, Novosibirsk 630090, Russia   --------  6
+Novosibirsk State University, Pirogova Street 2, Novosibirsk 630090, Russia   --------  1
+Institute of Chemistry, Saint Petersburg State University, Universitetsky Street 26, Peterhof, Saint Petersburg 198504, Russia   --------  1
+South Ural State University, Lenina Street 76, Chelyabinsk 454080, Russia   --------  1
+Boreskov Institute of Catalysis, Siberian Branch of the Russian Academy of Sciences, Prospekt Akademika Lavrentieva 5, Novosibirsk 630090, Russia   --------  6
+Faculty of Natural Sciences, Department of Physical Chemistry, Novosibirsk State University, Pirogova Street 2, Novosibirsk 630090, Russia   --------  4
+Fakultät für Physik und Geowissenschaften, Universität Leipzig, Linnéstraße 5, 04103 Leipzig, Germany   --------  2
+Sobolev Institute of Geology and Mineralogy, SiberianBranch of Russian Academy of Sciences, prosp. acad. Koptyuga 3, 630090 Novosibirsk, Russia   --------  3
+Department of Physics, AlbaNova University Center, Royal Institute of Technology (KTH), 10691 Stockholm, Sweden   --------  1
+National Research University Higher School of Economics, 123458 Moscow, Russia   --------  1
+Vereshchagin Institute for High Pressure Physics RAS, Troitsk, 108840 Moscow, Russian Federation   --------  1
+Department of Mechanics and Mathematics, Novosibirsk State University, Novosibirsk, Russian Federation   --------  1
+Fachbereich Mathematik und Informatik, Philipps-Universität Marburg, Marburg, Germany   --------  1
+Algorithmics and Computational Complexity, Fakultät IV, TU Berlin, Germany   --------  3
+Institute of Informatics, University of Warsaw, Poland   --------  1
+Institute of Petroleum Geology and Geophysics, pr. Koptyug 3, 630090, Novosibirsk, Russia   --------  1
+Novosibirsk State University, Pirogova 2 St., 630090, Novosibirsk, Russia   --------  1
+EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia   --------  2
+Novosibirsk State University, Novosibirsk630090, Russia   --------  5
+Institute of Computational Mathematics and Mathematical Geophysics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk630090, Russia   --------  2
+Institute of Computational Mathematics and Mathematical Geophysics, Siberian Branch of the RAS, Novosibirsk630090, Russia   --------  3
+Institute of Astronomy, Russian Academy of Sciences, Pyatnitskaya str 48, 119017 Moscow, Russia   --------  2
+Department of Astrophysics, University of Vienna, A-1180 Vienna, Austria   --------  1
+Research Institute of Physics, Southern Federal University, Rostov-on-Don 344090, Russia   --------  1
+Lavrentiev Institute of Hydrodynamics, Siberian Branch of Russian Academy of Sciences, Lavrentieva ave. 15, 630090 Novosibirsk, Russia   --------  1
+Department of Natural Sciences, Novosibirsk State University, Novosibirsk 630090, Russia   --------  1
+Institute of Computational Mathematics and Mathematical Geophysics , Siberian Branch of Russian Academy of Science, Lavrentiev Prosp. 6 , Novosibirsk , 630090 , Russia   --------  1
+Institute of Computational Mathematics and Mathematical Geophysics , Siberian Branch of Russian Academy of Science, Lavrentiev Prosp. 6; and Novosibirsk State University, Pirogov str. 2 , Novosibirsk , 630090 , Russia   --------  1
+Rzhanov Institute of Semiconductor Physics , Siberian Branch of Russian Academy of Sciences, Lavrentiev Prosp. 13, 630090; and Novosibirsk State Technical University, 20, K. Marx av. , Novosibirsk , 630073 , Russia   --------  1
+Rzhanov Institute of Semiconductor Physics , Siberian Branch of Russian Academy of Sciences, Lavrentiev Prosp. 13; and Novosibirsk State University, Pirogov Str. 2 , Novosibirsk , 630090 , Russia   --------  1
+Novosibirsk State University , Novosibirsk , Russia   --------  2
+Institute for Physics of Microstructures RAS, Afonino, Nizhny Novgorod 603087, Russia   --------  6
+Rzhanov Institute of Semiconductor Physics, Siberian Branch, Russian Academy of Sciences, Lavrentiev Ave, 13, Novosibirsk, 630090 Russia   --------  1
+Faculty of Physics, Novosibirsk State University, Pirogova Street, 2, Novosobirsk, 630090 Russia   --------  1
+Faculty of Radiophysics, Lobachevsky State University, Nizhny Novgorod 603950, Russia   --------  1
+Institute of Physics, EIT 2, Faculty of Electrical Engineering and Information Technology, Universität der Bundeswehr München, Werner-Heisenberg-Weg 39, 85577 Neubiberg, Germany   --------  1
+Institute of Computational Mathematics and Mathematical Geophysics SB RAS , Akad. Lavrentieva avenue 6, 630090; and Novosibirsk State University , Pirogova 1, 630090 Novosibirsk , Russia   --------  2
+Institute of Computational Mathematics and Mathematical Geophysics of SB RAS , Novosibirsk State University , Novosibirsk , Russia   --------  1
+Institute of Computational Mathematics and Mathematical Geophysics of SB RAS , Sobolev Institute of Mathematics of SB RAS , Novosibirsk State University , Novosibirsk , Russia   --------  1
+Tianjin University of Finance and Economics , Tianjin , P. R. China   --------  1
+Department of Mineralogy Sobolev Institute of Geology and Mineralogy Siberian, Branch of the Russian Academy of Sciences  Novosibirsk Russia   --------  3
+Department of Economic Geology, Faculty of Natural Sciences Comenius University  Bratislava Slovakia   --------  1
+Molecular Spectroscopy laboratory Kirensky Institute of Physics  Krasnoyarsk Russia   --------  1
+Institute of Engineering Physics and Radio Electronics Siberian Federal University  Krasnoyarsk Russia   --------  1
+Department of Geology Novosibirsk State University  Novosibirsk Russia   --------  1
+Institute of Inorganic Chemistry Slovak Academy of Sciences  Bratislava Slovakia   --------  1
+Institute of Geology of Ore Deposits, Petrography, Mineralogy and Geochemistry Russian Academy of Sciences  Moscow Russia   --------  1
+Institute of Chemical Biology and Fundamental Medicine Siberian Branch of the Russian Academy of Sciences Novosibirsk Russia   --------  5
+Novosibirsk State University Novosibirsk Russia   --------  4
+Sobolev Institute of Mathematics and Novosibirsk State University, Novosibirsk 630090, Russia   --------  2
+Novosibirsk State Agrarian University, Dobrolyubova Street, 160, Novosibirsk, 630039, Russia   --------  1
+Regional Scientific and Educational Mathematical Center of Tomsk State University, 36 Lenin Ave., Tomsk, Russia   --------  2
+Department of Mathematical Sciences, Indian Institute of Science Education and Research (IISER), Mohali, Sector 81, S. A. S. Nagar, P. O. Manauli, Punjab 140306, India   --------  1
+Sobolev Institute of Mathematics SB RAS, 4 Acad. Koptyug Prosp., 630090 Novosibirsk, Russia   --------  2
+Novosibirsk State University, 1 Pirogov St., 630090 Novosibirsk, Russia   --------  2
+Siberian Institute of Management, (Department of the Russian Academy of National Economy and Public Administration under the President of the Russian Federation), 6 Nizhegorodskaya St., 630102 Novosibirsk, Russia   --------  1
+Novosibirsk State Technical University, 20 Karl Marx Prosp., 630073 Novosibirsk, Russia   --------  2
+Institute of Mathematics of the National Academy of Sciences, 265a Chui Prosp., 720071 Bishkek, Kyrgyzstan   --------  1
+Departments of Heterogeneous Catalysis and Physicochemical Methods for Catalyst Investigation Boreskov Institute of Catalysis SB RAS  Lavrentieva 5 Novosibirsk 630090 Russia   --------  4
+Departments of Natural Sciences and Physics Novosibirsk State University  Pirogova 2 Novosibirsk 630090 Russia   --------  4
+Voevodsky Institute of Chemical Kinetics and Combustion Siberian Branch of the Russian Academy of Science  Institutskaya str. 3 630090 Novosibirsk Russia   --------  5
+Novosibirsk State University  Pirogova str. 1 630090 Novosibirsk Russia   --------  3
+Nikolaev Institute of Inorganic Chemistry Siberian Branch of the Russian Academy of Sciences  Lavrentiev Ave. 3 630090 Novosibirsk Russia   --------  3
+Rzhanov Institute of Semiconductor Physics Siberian Branch of the Russian Academy of Science  Lavrentiev Ave. 3 630090 Novosibirsk Russia   --------  2
+Tomsk State University  Lenin Ave 36 634050 Tomsk Russia   --------  1
+Department of Mathematics and Mechanics Novosibirsk State University  Novosibirsk Russian Federation   --------  2
+Faculty IV, Algorithmics and Computational Complexity Technische Universität Berlin  Berlin Germany   --------  1
+Sobolev Institute of Mathematics Siberian Branch of the Russian Academy of Sciences  Novosibirsk Russian Federation   --------  1
+Boreskov Institute of Catalysis SB RAS, Novosibirsk 630090, Russia   --------  7
+3 Akad. Lavrentiev Ave   --------  6
+Department of Mechanical and Process Engineering, ETH Zürich, Leonhardstrasse 21, CH 8092 Zürich, Switzerland   --------  5
+International Tomography Center, SB RAS, 3A Institutskaya Street, 630090 Novosibirsk, Russia   --------  3
+Novosibirsk State University, 2 Pirogova Street, 630090 Novosibirsk, Russia   --------  4
+The Swiss−Norwegian Beamlines (SNBL) at ESRF, BP 220, Grenoble 38043, France   --------  1
+Boreskov Institute of Catalysis, SB RAS, 5 Academician Lavrentyev Prospekt, 630090 Novosibirsk, Russia   --------  3
+Sobolev Institute of Geology and Mineralogy, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia   --------  4
+L. N. Gumilyov Eurasian National University, Nur-Sultan 010008, Kazakhstan   --------  2
+Novosibirsk State University, Novosibirsk 630090, Russia   --------  3
+Vereshchagin Institute for High Pressure Physics, Russian Academy of Sciences, Troitsk, Moscow 108840, Russia   --------  1
+Fersman Mineralogical Museum, Russian Academy of Sciences, Moscow 119071, Russia   --------  1
+Department of Petroleum Engineering, Kazan Federal University, 18, Kremlevskaya Street, Kazan 420008, Russian Federation   --------  2
+Department of Physical Chemistry, Kazan Federal University, 18, Kremlevskaya Street, Kazan 420008, Russian Federation   --------  3
+Research Center for Oil and Gas Exploration, Shahid Beheshti University, GC, P.O. Box 1983969411, Tehran, Iran   --------  1
+Department of Physical and Colloid Chemistry, Gubkin University, 65, Leninsky Prospekt, Building 1, Moscow 119991, Russian Federation   --------  3
+Novosibirsk State University, Pirogova Street 1, Novosibirsk 630090, Russian Federation   --------  1
+Nikolaev Institute of Inorganic Chemistry SB RAS  Lavrentiev Av. 3 630090 Novosibirsk Russia   --------  5
+Novosibirsk State University  Pirogova St. 2 630090 Novosibirsk Russia   --------  3
+Voevodsky Institute of Chemical Kinetics and Combustion SB RAS  Institutskaya St. 3 630090 Novosibirsk Russia   --------  2
+Rzhanov Institute of Semiconductor Physics, 630090 Novosibirsk, Russia   --------  3
+Novosibirsk State University, 630090 Novosibirsk, Russia   --------  3
+Terahertz Center, University of Regensburg, 93040 Regensburg, Germany   --------  3
+Ioffe Institute, 194021 St. Petersburg, Russia   --------  1
+Research Institute of Internal and Preventive Medicine, Institute of Cytology and Genetics of Siberian Branch of the Russian Academy of Sciences, Novosibirsk, Russia   --------  4
+The Digital Health Institute, I.M. Sechenov First Moscow State Medical University, Moscow, Russia   --------  1
+Novosibirsk State Medical University of the Ministry of Health of the Russian Federation, Novosibirsk, Russia   --------  3
+The Federal Research Center Institute of Cytology and Genetics SB RAS, Novosibirsk, Russia   --------  5
+Russian Research Institute of Farm Animal Genetics and Breeding—Branch of the L.K. Ernst Federal Science Center of Animal Husbandry, Saint-Petersburg, Russia   --------  1
+The N.I. Vavilov Federal Research Center All-Russian Institute of Plant Genetic Resources (VIR), Saint-Petersburg, Russia   --------  2
+N.N. Vorozhtsov Novosibirsk Institute of Organic Chemistry  9 Ac. Lavrentiev Avenue Novosibirsk 630090 Russia   --------  8
+Novosibirsk State University  2 Pirogova Str. Novosibirsk 630090 Russia   --------  8
+Research School of Chemistry &amp; Applied Biomedical Sciences Tomsk Polytechnic University  30 Lenin Avenue Tomsk 634050 Russia   --------  3
+Voevodsky Institute of Chemical Kinetics and Combustions  3 Institutskaya Str. Novosibirsk 630090 Russia   --------  2
+International Tomography Center  3a Institutskaya Str. Novosibirsk 630090 Russia   --------  2
+University of Chemistry and Technology  3 Technicka 16628 Prague Czech Republic   --------  1
+Nikolaev Institute of Inorganic Chemistry Siberian Branch of the Russian Academy of Sciences  Acad. Lavrentiev Ave.3 Novosibirsk 630090 Russia   --------  6
+Novosibirsk State University  Pirogova Str. 2 Novosibirsk 630090 Russia   --------  6
+Boreskov Institute of Catalysis   --------  3
+Faculty of Natural Sciences   --------  2
+TheoMAT Group   --------  2
+ChemBio Cluster   --------  2
+ITMO University   --------  2
+Saint Petersburg   --------  2
+Nikolaev Institute of Inorganic Chemistry SB RAS, 3 Lavrentiev Ave., Novosibirsk 630090, Russia   --------  5
+Department of Natural Sciences, Novosibirsk State University, 2 Pirogova St., Novosibirsk 630090, Russia   --------  7
+International Tomography Center SB RAS, 3a Institutskaya St., Novosibirsk 630090, Russia   --------  2
+Nikolaev Institute of Inorganic Chemistry SB RAS  3 acad. Lavrentiev ave. 630090 Novosibirsk Russia   --------  6
+Novosibirsk State University  2 Pirogova st. 630090 Novosibirsk Russia   --------  5
+Federal Research Center Institute of Cytology and Genetics SB RAS  10 acad. Lavrentiev ave. 630090 Novosibirsk Russia   --------  3
+School of Mathematics and Physical Sciences G.W. Gray Centre for Advanced Materials University of Hull  Cottingham Road HU6 7RX Hull UK   --------  5
+International Tomography Center SB RAS  3a Institutskaya st. 630090 Novosibirsk Russia   --------  1
