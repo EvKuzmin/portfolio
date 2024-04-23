@@ -1,0 +1,107 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+
+    margin: 0;
+
+    line-height: 135%;
+}
+
+a {
+    text-decoration: none;
+    color: #666;
+}
+
+a:hover {
+    color: #000;
+}
+
+.clr {
+    clear: both;
+}
+
+.container {
+    width: 700px;
+    margin: auto;
+    padding: 25px;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+.header {
+    border-bottom: #ccc 1px solid;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.name {
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.specialization {
+    margin: 12px 0px;
+    font-size: 16px;
+}
+
+.links { 
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 14px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+    
+}
+
+.fa {
+    margin-right: 8px;
+}
+
+.fa-github, .fa-file-text {
+    width: 14px;
+    padding-left: 1px;
+}
+
+.body-block {
+    margin-top: 30px;
+}
+
+.info-title {
+    font-weight: normal;
+    text-transform: uppercase;
+    color: rgb(62, 106, 163);
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.info-block {
+    padding: 0 15px;
+    font-size: 15px;
+    margin: 20px 0;
+}
+
+.section-title-block {
+    
+}
+
+.section-title-block .inline {
+    float: left;
+    margin: 0px 8px 0px 0px;
+}
+
+.date {
+    color: #555;
+    margin: 7px 0;
+    font-weight: 500;
+}
+
+.techs {
+    word-spacing: 0.3em;
+}
